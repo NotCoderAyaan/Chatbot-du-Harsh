@@ -1,0 +1,12 @@
+print("Harsh du Chatbot")
+
+choice1 = input("1. Harsh Birth Date")
+choice1 = print("9 December")
+choice2 = input("2. Favourite Color")
+choice2 = print("Red")
+choice3 = input("3. What he want to be")
+choice3 = print("Pilot")
+choice4 = input("4. Nick Name")
+choice4 = print("HindAviator")
+choice5 = input("5. Favourite games")
+choice5 = print("COD Mobile etc")
