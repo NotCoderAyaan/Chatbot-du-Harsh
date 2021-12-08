@@ -1,0 +1,19 @@
+a=int(input(print("Know Harsh birthdate")))
+b=int(input(print("Favorite color")))
+c=int(input(print("What he want to be")))
+d=int(input(print("Nick Name")))
+e=int(input(print("Favourite Game")))
+
+if a==1:
+   print("9 December")
+elif b==2:
+    print("Red")
+elif c==3:
+    print("Pilot")
+elif d==5:
+    print("HindAviator")
+elif e==6:
+    print("COD Moblie")
+else:
+    print("Bye for now")
+    
